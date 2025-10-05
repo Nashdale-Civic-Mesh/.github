@@ -34,3 +34,20 @@ Anchors include small manufacturers, shops, community spaces, and transit nodes 
 > Privacy first. Minimal data, open formats, consent, and transparency.
 
 — _Nashdale Civic Mesh Stewardship Team_
+
+# Nashdale Civic Mesh
+
+A neighborhood-scale, community-owned mesh linking **culture, commerce, and care** in Hamilton’s Nashdale.
+
+**Start here**
+- Map & overlays → https://github.com/Nashdale-Civic-Mesh/zones
+- Entities & Personas → https://github.com/Nashdale-Civic-Mesh/entities · https://github.com/Nashdale-Civic-Mesh/personas
+- Projects → https://github.com/Nashdale-Civic-Mesh/projects
+- Governance → https://github.com/Nashdale-Civic-Mesh/governance
+
+**Upstream (federation)**
+- Schemas → https://github.com/Civic-Mesh-Network/schema  
+- Templates → https://github.com/Civic-Mesh-Network/templates  
+- Playbooks → https://github.com/Civic-Mesh-Network/playbooks  
+- Standards → https://github.com/Civic-Mesh-Network/standards
+
